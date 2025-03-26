@@ -1,0 +1,1 @@
+A custom iptables firewall for Linux-based systems to enhance network security. Blocks all incoming traffic by default while allowing SSH (22), HTTP (80), and HTTPS (443). Includes logging for monitoring and security analysis. Simple, effective, and cost-efficient.
