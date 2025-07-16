@@ -1,0 +1,6 @@
+In modern cybersecurity, intrusion detection systems (IDS) have evolved into Intrusion 
+Prevention Systems (IPS), which not only detect but actively block malicious activities. The 
+integration of IPS within a Unified Threat Management (UTM) framework consolidates 
+multiple security services under one management umbrella. This project aims to build a robust 
+IPS using SNORT, addressing challenges like ensuring accurate signatures, managing large 
+traffic efficiently, and optimizing deployment.
